@@ -1,0 +1,30 @@
+{
+  "name": "design-patterns-in-typescript",
+  "version": "1.0.0",
+  "description": "Design patterns are explained using typescript examples",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjithprabhuk/Design-Patterns-In-Typescript.git"
+  },
+  "keywords": [
+    "design",
+    "pattern",
+    "typescript",
+    "design",
+    "pattern",
+    "examples"
+  ],
+  "author": "Ranjithprabhu K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranjithprabhuk/Design-Patterns-In-Typescript/issues"
+  },
+  "homepage": "https://github.com/ranjithprabhuk/Design-Patterns-In-Typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
